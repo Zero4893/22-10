@@ -1,0 +1,12 @@
+header {
+    background-image: url(/936378.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
